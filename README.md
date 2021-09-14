@@ -12,8 +12,8 @@ The Summer_Olympics.ipynb file contains the code with detailed analysis for the 
 
 Your system should have the 'pandas' and 'matplotlib' libraries of python installed or they can be installed with the following code: 
                                                                                   
-                                                                                                                                     pandas - !pip install pandas
-                                                                                                                                     matplotlib - !pip install matplotlib
+              pandas - !pip install pandas
+              matplotlib - !pip install matplotlib
 
 The questions answered are:
 
