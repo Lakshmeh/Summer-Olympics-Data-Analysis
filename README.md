@@ -1,6 +1,19 @@
 # Summer-Olympics-Data-Analysis
+
 This project contains the detailed analysis of all the Summer Olympics' held between 1896 to 2012.
-The analysis has been made using pandas and matplotlib (wherever required)
+
+The analysis has been made using pandas and matplotlib (wherever required).
+
+I have attached two files named summer.csv file and Summer_Olympics.ipynb file.
+
+The summer.csv file contains all the required data (namely: 'Year' ,'City' ,'Sport' ,'Discipline' ,'Ahtlete' ,'Country' ,'Gender' ,'Event' and 'Medal'.
+
+The Summer_Olympics.ipynb file contains the code with detailed analysis for the questions mentioned as follows.
+
+Your system should have the 'pandas' and 'matplotlib' libraries of python installed or they can be installed with the following code: 
+                                                                                  
+                                                                                                                                     pandas - !pip install pandas
+                                                                                                                                     matplotlib - !pip install matplotlib
 
 The questions answered are:
 
